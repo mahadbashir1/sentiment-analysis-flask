@@ -36,7 +36,7 @@ Make sure you have Python 3.8+ installed on your system. You also need Google Ch
 
 ### 1. Clone the Repository
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/mahadbashir1/sentiment-analysis-flask.git
 cd sentiment-analysis-flask
 ```
 
